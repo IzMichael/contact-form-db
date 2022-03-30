@@ -1,6 +1,6 @@
 # contact-form-db
 
-A simple website visitor counter API.
+A simple contact form backend API.
 
 ## Installation
 1. Clone the repository onto your machine.
